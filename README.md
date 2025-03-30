@@ -29,7 +29,7 @@ A modern React-based admin panel for managing and monitoring entry points, built
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/faridmohammadi00/entrypoint-admin
 cd entrypoint-admin
 ```
 
