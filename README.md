@@ -111,9 +111,20 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Farid Mohammadi - Initial work
+  - Implemented modern React 19 with TypeScript for type-safe development
+  - Set up Vite for fast development and optimized builds
+  - Integrated Material-UI for a consistent and responsive design system
+  - Configured Redux Toolkit for efficient state management
+  - Added form handling with React Hook Form and Yup validation
+  - Implemented routing with React Router DOM
+  - Set up API integration with Axios
+  - Added map functionality using Leaflet and React-Leaflet
+  - Integrated date handling with React DatePicker
+  - Added toast notifications with React Toastify
+  - Configured ESLint and TypeScript for code quality
 
-## 🙏 Acknowledgments
+## �� Acknowledgments
 
 - Material-UI team for the amazing UI components
 - React team for the incredible framework
